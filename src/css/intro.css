@@ -1,0 +1,297 @@
+@font-face {
+  font-family: 'Bitwise';
+  src: url("./fonts/bitwise.eot");
+  src: url("./fonts/bitwise.eot?#iefix") format("embedded-opentype"), url("./fonts/bitwise.woff2") format("woff2"), url("./fonts/bitwise.woff") format("woff"), url("./fonts/bitwise.ttf") format("truetype"), url("./fonts/bitwise.svg#bitwise") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'GoodTimesRg-Regular';
+  src: url("./fonts/GoodTimesRg-Regular.svg#GoodTimesRg-Regular") format("svg"), url("./fonts/GoodTimesRg-Regular.ttf") format("truetype"), url("./fonts/GoodTimesRg-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'good-times.regular';
+  src: url("./fonts/good-times.regular.eot");
+  src: url("./fonts/good-times.regular.eot?#iefix") format("embedded-opentype"), url("./fonts/good-times.regular.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'YoungSerif-Regular';
+  src: url("./fonts/YoungSerif-Regular.svg#YoungSerif-Regular") format("svg"), url("./fonts/YoungSerif-Regular.ttf") format("truetype"), url("./fonts/YoungSerif-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'youngserif-regular';
+  src: url("./fonts/youngserif-regular.eot");
+  src: url("./fonts/youngserif-regular.eot?#iefix") format("embedded-opentype"), url("./fonts/youngserif-regular.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'TeXGyreBonum-Regular';
+  src: url("./fonts/TeXGyreBonum-Regular.eot");
+  src: url("./fonts/TeXGyreBonum-Regular.eot?#iefix") format("embedded-opentype"), url("./fonts/TeXGyreBonum-Regular.svg#TeXGyreBonum-Regular") format("svg"), url("./fonts/TeXGyreBonum-Regular.ttf") format("truetype"), url("./fonts/TeXGyreBonum-Regular.woff") format("woff"), url("./fonts/TeXGyreBonum-Regular.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'AlmendraSC-Regular';
+  src: url("./fonts/AlmendraSC-Regular.eot");
+  src: url("./fonts/AlmendraSC-Regular.eot?#iefix") format("embedded-opentype"), url("./fonts/AlmendraSC-Regular.svg#AlmendraSC-Regular") format("svg"), url("./fonts/AlmendraSC-Regular.ttf") format("truetype"), url("./fonts/AlmendraSC-Regular.woff") format("woff"), url("./fonts/AlmendraSC-Regular.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Xolonium-Bold';
+  src: url("./fonts/Xolonium-Bold.eot");
+  src: url("./fonts/Xolonium-Bold.eot?#iefix") format("embedded-opentype"), url("./fonts/Xolonium-Bold.svg#Xolonium-Bold") format("svg"), url("./fonts/Xolonium-Bold.ttf") format("truetype"), url("./fonts/Xolonium-Bold.woff") format("woff"), url("./fonts/Xolonium-Bold.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Marske';
+  src: url("./fonts/Marske.eot");
+  src: url("./fonts/Marske.eot?#iefix") format("embedded-opentype"), url("./fonts/Marske.svg#Marske") format("svg"), url("./fonts/Marske.ttf") format("truetype"), url("./fonts/Marske.woff") format("woff"), url("./fonts/Marske.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'BlackOpsOne-Regular';
+  src: url("./fonts/BlackOpsOne-Regular.eot");
+  src: url("./fonts/BlackOpsOne-Regular.eot?#iefix") format("embedded-opentype"), url("./fonts/BlackOpsOne-Regular.svg#BlackOpsOne-Regular") format("svg"), url("./fonts/BlackOpsOne-Regular.ttf") format("truetype"), url("./fonts/BlackOpsOne-Regular.woff") format("woff"), url("./fonts/BlackOpsOne-Regular.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'RechargeRg-Bold';
+  src: url("./fonts/RechargeRg-Bold.svg#RechargeRg-Bold") format("svg"), url("./fonts/RechargeRg-Bold.ttf") format("truetype"), url("./fonts/RechargeRg-Bold.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'recharge bd';
+  src: url("./fonts/recharge bd.eot");
+  src: url("./fonts/recharge bd.eot?#iefix") format("embedded-opentype"), url("./fonts/recharge bd.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PolenticalNeonBold';
+  src: url("./fonts/PolenticalNeonBold.svg#PolenticalNeonBold") format("svg"), url("./fonts/PolenticalNeonBold.ttf") format("truetype"), url("./fonts/PolenticalNeonBold.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'polentical-neon.bold';
+  src: url("./fonts/polentical-neon.bold.eot");
+  src: url("./fonts/polentical-neon.bold.eot?#iefix") format("embedded-opentype"), url("./fonts/polentical-neon.bold.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+#root {
+  background-color: #4C4C4B;
+  margin: 0 auto;
+  width: 100%;
+  height: 950px;
+}
+
+.App {
+  width: 100%;
+  height: 950px;
+}
+
+.header-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+  padding-top: 4em;
+}
+
+.constpic {
+  width: 20%;
+  height: auto;
+}
+
+.constpic img {
+  width: 100%;
+}
+
+.const-text {
+  text-align: center;
+  width: 50%;
+}
+
+.temp-text {
+  margin-top: 2em;
+  text-shadow: #FCE67E .05em 0 .2em;
+}
+
+.temp-text1 {
+  text-shadow: #4AB4FA .05em 0 .2em;
+}
+
+.temp-text2 {
+  text-shadow: #EE9D4C .05em 0 .2em;
+}
+
+.temp-text3 {
+  text-shadow: #4FC25A .05em 0 .2em;
+}
+
+.temp-text, .temp-text1, .temp-text2, .temp-text3 {
+  margin: 0 auto;
+  font-family: "TeXGyreBonum-Regular";
+  font-weight: 900;
+  font-size: 2em;
+  text-align: center;
+  width: 100%;
+  margin-bottom: .5em;
+}
+
+.temp-text3 {
+  margin-bottom: 1.5em;
+}
+
+.const-text a {
+  text-decoration: none;
+  color: black;
+  font-family: "Xolonium-Bold";
+  font-size: 2em;
+  font-weight: 900;
+  text-shadow: #fff .05em 0 .2em;
+}
+
+.logo-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+}
+
+.logo-box {
+  margin-top: 2em;
+  width: 100%;
+}
+
+.logo {
+  margin: 0 auto;
+  font-family: 'BlackOpsOne-Regular', 'courier';
+  font-weight: '900';
+  font-size: 10em;
+  color: #000;
+  text-shadow: #0900ff .05em 0 .2em;
+  text-align: center;
+}
+
+.catch-line {
+  margin: 0 auto;
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+}
+
+.catch-text_one, .catch-text_two, .catch-text_three, .catch-text_four {
+  font-family: 'RechargeRg-Bold', 'courier';
+  font-weight: '900';
+  text-shadow: #CACBCD .15em 0 .5em;
+  font-size: 2em;
+  margin-right: 1.5em;
+  text-align: right;
+}
+
+.catch-text_one {
+  color: #FCE67E;
+}
+
+.catch-text_two {
+  color: #4AB4FA;
+}
+
+.catch-text_three {
+  color: #EE9D4C;
+}
+
+.catch-text_four {
+  color: #4FC25A;
+}
+
+.footer {
+  margin-top: 2em;
+}
+
+.contact-number {
+  width: 100%;
+  margin: 0 auto;
+  color: black;
+  font-family: "Xolonium-Bold";
+  font-size: 3em;
+  font-weight: 900;
+  text-shadow: #fff .05em 0 .2em;
+  text-align: center;
+}
+
+.footer a {
+  text-decoration: none;
+  color: #000;
+}
+
+.general-email {
+  width: 100%;
+  margin: 0 auto;
+  text-decoration: none;
+  color: black;
+  font-family: "Xolonium-Bold";
+  font-size: 3em;
+  font-weight: 900;
+  text-shadow: #fff .05em 0 .2em;
+  text-align: center;
+}
+
+.general-email:hover {
+  color: #0900ff;
+}
+
+.country {
+  font-family: "Xolonium-Bold";
+  font-size: 1em;
+  font-weight: 600;
+  color: #fff;
+  text-align: center;
+}
+
+.country img {
+  width: 2%;
+  margin-left: 1em;
+}
+/*# sourceMappingURL=intro.css.map */
